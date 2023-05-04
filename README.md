@@ -14,4 +14,4 @@ test_bmp folder contains all the images we use to test the accuracy of the model
 
 EE113DB_project.ipynb contains the pyhon codes for the CNN model constructed by Tensorflow library
 
-On usb driver folder has all we need to test if the board can predict a car plate image, this folder must be store in the usb drive to be loaded on the board.
+On usb driver folder has all we need to test if the board can predict a car plate image, this folder must be stored in the usb driver in order to load the data and parameter to the board.
